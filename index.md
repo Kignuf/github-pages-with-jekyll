@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome
 
-I'm glad you are here. I plan to talk about ...
+Let's talk End to End (E2E) test automation. We will cover topics such as Cucumber, Webdriverio, Appium and much more.
