@@ -1,4 +1,9 @@
-# Not every app is made of the same code
+---
+title: "Not every app is written in the same language"
+date: 2021-12-01
+---
+
+# Not every app is written in the same language
 
 ## Intro
 
