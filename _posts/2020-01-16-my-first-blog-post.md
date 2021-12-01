@@ -50,7 +50,7 @@ Even if you feel confused, please hold on and follow these instructions:
 
 Throughout my life I experienced many events that exhibited many of the characteristics mentionned above. For instance I confronted the fear of being a fraud by opening my first PR on an open source project.
 
-Looking back at my life I can see more clearly now how exploring a vast array of topics and practices helped me open up my mind more and more to other people and ideas, and grow as a person. I have not built the invaluable ability to approach any idea or person and simply listen.
+Looking back at my life I can see more clearly now how exploring a vast array of topics and practices helped me open up my mind more and more to other people and ideas, and grow as a person. I have now built the invaluable ability to approach any idea or person and simply listen.
 
 Here is a non exhaustive list of topics I visited:
 - Non Violent Communication (NVC)
