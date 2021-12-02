@@ -3,13 +3,11 @@ title: "Not every app is written in the same language"
 date: 2021-12-01
 ---
 
-# Not every app is written in the same language
-
-## Intro
+# Intro
 
 This is a short intro to a book concept I'd like to pitch, and if enough people show interest, write.
 
-## The core idea
+# The core idea
 
 In this book I will describe how as a developper I came to realize how investing into so called soft or human skills allowed me not only to become a better developper, but a better version of myself.
 
@@ -19,9 +17,9 @@ As this method is based on a fondamental change, a shift, in the way you might b
 
 Following this path can be frightening and hasardous and is not recommanded for everyone depending on where you are in life right now. I will do my best to highlight the most common traps, but be aware that by its very nature the content of this book can lead you astray for a little while and that is both expected and fine. After all, why not have a bit of fun along the way ?
 
-## The Inception
+# The Inception
 
-### A story
+## A story
 On the 19th of December 1993 (9 years old) in the evening I went to bed, shut the light off and fell asleep only to experience the worst nightmare I ever had in my life. The next day I was ill and missed school.
 
 My mother accompanied me to the pediatrician which reassured me it was just a cold and prescribed some basic drugs to help recover.
@@ -32,7 +30,7 @@ The next year I went to bed, drank some water, shut the light off and closed my 
 
 Eventually I managed to teach myself to fall asleep and not experience the nightmare. The next day I woke up fresh and well, but convinced that hadn't I managed to avoid the nightmare I would be visiting the pediatrician again ..
 
-### Why this story ?
+## Why this story ?
 I chose this story because it exhibits a couple of fundamental points:
 - It was terrifying
 - Despite having tried to talk about it, I never felt understood about how scary and eery it was. It seemed adults didn't really get it and often were downplaying it.
@@ -40,7 +38,7 @@ I chose this story because it exhibits a couple of fundamental points:
 - I taught myself how to approach the situation and solve it
 - It is a personnal and intimate story
 
-### Ok ..
+## Ok ..
 Alright, I get a feeling some of you might feel a bit lost.. I started talking about becoming a better developper and end up writting about a weird childhood nightmare story.
 
 Even if you feel confused, please hold on and follow these instructions:
