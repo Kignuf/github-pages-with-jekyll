@@ -1,5 +1,5 @@
 title: Self help and unconventional wisdom for free minded people
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 author: Kevin Roulleau
 description: > # this means to ignore newlines until "baseurl:"
   Kevin Roulleau, software developper. Articles about how to make sense of one's life, sharing personal experiences and exploring uncharted territories.
@@ -8,3 +8,6 @@ description: > # this means to ignore newlines until "baseurl:"
 github_username: kignuf
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
